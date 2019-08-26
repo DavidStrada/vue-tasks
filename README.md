@@ -1,4 +1,4 @@
-# vue-by-example
+# vue-tasks
 
 > A Vue.js project
 
