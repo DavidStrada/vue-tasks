@@ -1,17 +1,20 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <tasks></tasks>
+    <!-- <tasks></tasks> -->
+    <markdown></markdown>
   </div>
 </template>
 
 <script>
-import Tasks from './components/Tasks'
+// import Tasks from './components/Tasks'
+import Markdown from './components/Markdown'
 
 export default {
   name: 'App',
   components: {
-    Tasks
+    // Tasks
+    Markdown
   }
 }
 </script>
